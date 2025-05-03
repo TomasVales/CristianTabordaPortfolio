@@ -36,7 +36,7 @@ export const translations = {
             title: 'EXPERIENCIA PROFESIONAL',
             freelanceTester: {
                 title: 'TESTER MANUAL FREELANCE',
-                company: 'Utest · 3 años (2020-Presente)',
+                company: 'Utest · 4 años (2021-Presente)',
                 remote: 'REMOTO',
                 featuredProjects: 'PROYECTOS DESTACADOS',
                 streamingPlatforms: 'Plataformas de Streaming',
@@ -80,7 +80,6 @@ export const translations = {
                 details: [
                     'Módulos avanzados de estadística aplicada',
                     'Machine Learning básico para análisis predictivo',
-                    'Visualización de datos con Tableau y Power BI',
                     'Proyectos prácticos con datasets reales'
                 ]
             },
@@ -145,7 +144,7 @@ export const translations = {
                 googleData: {
                     title: 'Google Data Analytics',
                     platform: 'Coursera',
-                    description: 'Certificación profesional en análisis de datos con herramientas de Google',
+                    description: 'Certificación profesional en análisis de datos con herramientas de Google, incluyendo Tableau y Power BI',
                     url: 'https://www.coursera.org/account/accomplishments/professional-cert/J4OSFRWSGUJQ'
                 },
                 testingFundamentals: {
@@ -223,7 +222,7 @@ export const translations = {
             title: 'PROFESSIONAL EXPERIENCE',
             freelanceTester: {
                 title: 'FREELANCE MANUAL TESTER',
-                company: 'Utest · 3 years (2020-Present)',
+                company: 'Utest · 4 years (2021-Present)',
                 remote: 'REMOTE',
                 featuredProjects: 'FEATURED PROJECTS',
                 streamingPlatforms: 'Streaming Platforms',
@@ -332,7 +331,7 @@ export const translations = {
                 googleData: {
                     title: 'Google Data Analytics',
                     platform: 'Coursera',
-                    description: 'Professional certification in data analysis with Google tools',
+                    description: 'Professional certification in data analysis with Google tools, including Tableau and Power BI',
                     url: 'https://www.coursera.org/account/accomplishments/professional-cert/J4OSFRWSGUJQ'
                 },
                 testingFundamentals: {
