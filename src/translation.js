@@ -76,7 +76,7 @@ export const translations = {
             dataAnalyst: {
                 title: 'Analista de Datos JR.',
                 institution: 'Fundación Telefónica - Universidad Católica del Uruguay (2023-Presente)',
-                description: 'Programa intensivo de especialización en análisis de datos, business intelligence y herramientas como Python, SQL y Power BI. Adquisición de habilidades en limpieza, transformación y visualización de datos para la toma de decisiones empresariales.',
+                description: 'Programa intensivo de especialización en análisis de datos, business intelligence y herramientas como Python y SQL. Adquisición de habilidades en limpieza, transformación y visualización de datos para la toma de decisiones empresariales.',
                 details: [
                     'Módulos avanzados de estadística aplicada',
                     'Machine Learning básico para análisis predictivo',
@@ -144,7 +144,7 @@ export const translations = {
                 googleData: {
                     title: 'Google Data Analytics',
                     platform: 'Coursera',
-                    description: 'Certificación profesional en análisis de datos con herramientas de Google, incluyendo Tableau y Power BI',
+                    description: 'Certificación en análisis de datos con Tableau, Power BI y herramientas de Google',
                     url: 'https://www.coursera.org/account/accomplishments/professional-cert/J4OSFRWSGUJQ'
                 },
                 testingFundamentals: {
@@ -262,11 +262,10 @@ export const translations = {
             dataAnalyst: {
                 title: 'Junior Data Analyst',
                 institution: 'Fundación Telefónica - Universidad Católica del Uruguay (2023-Present)',
-                description: 'Intensive specialization program in data analysis, business intelligence and tools such as Python, SQL and Power BI. Acquisition of skills in data cleaning, transformation and visualization for business decision making.',
+                description: 'Intensive specialization program in data analysis, business intelligence and tools such as Python and SQL. Acquisition of skills in data cleaning, transformation and visualization for business decision making.',
                 details: [
                     'Advanced applied statistics modules',
                     'Basic Machine Learning for predictive analysis',
-                    'Data visualization with Tableau and Power BI',
                     'Practical projects with real datasets'
                 ]
             },
@@ -331,7 +330,7 @@ export const translations = {
                 googleData: {
                     title: 'Google Data Analytics',
                     platform: 'Coursera',
-                    description: 'Professional certification in data analysis with Google tools, including Tableau and Power BI',
+                    description: 'Certification in data analysis with Google, Tableau and Power BI.',
                     url: 'https://www.coursera.org/account/accomplishments/professional-cert/J4OSFRWSGUJQ'
                 },
                 testingFundamentals: {
