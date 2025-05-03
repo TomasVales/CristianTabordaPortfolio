@@ -139,34 +139,41 @@ export const translations = {
                 qaAutomation: {
                     title: 'QA y Automatización',
                     platform: 'Platzi',
-                    description: 'Ruta completa de automatización de pruebas con herramientas modernas'
+                    description: 'Ruta completa de automatización de pruebas con herramientas modernas',
+                    url: 'https://platzi.com/p/cristiantab/ruta/7632-web-qa/diploma/detalle/'
                 },
                 googleData: {
                     title: 'Google Data Analytics',
                     platform: 'Coursera',
-                    description: 'Certificación profesional en análisis de datos con herramientas de Google'
+                    description: 'Certificación profesional en análisis de datos con herramientas de Google',
+                    url: 'https://www.coursera.org/account/accomplishments/professional-cert/J4OSFRWSGUJQ'
                 },
                 testingFundamentals: {
                     title: 'Testing Fundamentals',
                     platform: 'AICS ASTFC',
-                    description: 'Fundamentos acreditados de testing de software'
+                    description: 'Fundamentos acreditados de testing de software',
+                    url: 'https://www.linkedin.com/in/cristian-taborda-todino-a21b921ab/overlay/1714762365276/single-media-viewer/?profileId=ACoAADEeYDkBMqa8yt27mVPHjEDNSjscJ-md_0Q'
                 },
                 gameTesting: {
                     title: 'Testing de Videojuegos',
                     platform: 'Platzi',
-                    description: 'Especialización en testing para plataformas de gaming'
+                    description: 'Especialización en testing para plataformas de gaming',
+                    url: 'https://platzi.com/p/cristiantab/curso/1349-course/diploma/detalle/'
                 },
                 databases: {
                     title: 'Bases de Datos y SQL',
                     platform: 'IBM',
-                    description: 'Manejo avanzado de bases de datos relacionales'
+                    description: 'Manejo avanzado de bases de datos relacionales',
+                    url: 'https://www.linkedin.com/in/cristian-taborda-todino-a21b921ab/details/featured/1635472606276/single-media-viewer/?profileId=ACoAADEeYDkBMqa8yt27mVPHjEDNSjscJ-md_0Q'
                 },
                 dataScience: {
                     title: 'Data Science',
                     platform: 'Educacion IT',
-                    description: 'Introducción a la ciencia de datos y análisis estadístico'
+                    description: 'Introducción a la ciencia de datos y análisis estadístico',
+                    url: 'https://api.educacionit.com/pdf/certificados/Cristian-Taborda-690928/58326'
                 },
-                viewAll: 'Ver todas mis certificaciones en LinkedIn'
+                viewAll: 'Ver todas mis certificaciones en LinkedIn',
+                url: ''
             }
         },
         contact: {
@@ -319,32 +326,38 @@ export const translations = {
                 qaAutomation: {
                     title: 'QA and Automation',
                     platform: 'Platzi',
-                    description: 'Complete test automation path with modern tools'
+                    description: 'Complete test automation path with modern tools',
+                    url: 'https://platzi.com/p/cristiantab/ruta/7632-web-qa/diploma/detalle/'
                 },
                 googleData: {
                     title: 'Google Data Analytics',
                     platform: 'Coursera',
-                    description: 'Professional certification in data analysis with Google tools'
+                    description: 'Professional certification in data analysis with Google tools',
+                    url: 'https://www.coursera.org/account/accomplishments/professional-cert/J4OSFRWSGUJQ'
                 },
                 testingFundamentals: {
                     title: 'Testing Fundamentals',
                     platform: 'AICS ASTFC',
-                    description: 'Accredited fundamentals of software testing'
+                    description: 'Accredited fundamentals of software testing',
+                    url: 'https://www.linkedin.com/in/cristian-taborda-todino-a21b921ab/overlay/1714762365276/single-media-viewer/?profileId=ACoAADEeYDkBMqa8yt27mVPHjEDNSjscJ-md_0Q'
                 },
                 gameTesting: {
                     title: 'Game Testing',
                     platform: 'Platzi',
-                    description: 'Specialization in testing for gaming platforms'
+                    description: 'Specialization in testing for gaming platforms',
+                    url: 'https://platzi.com/p/cristiantab/curso/1349-course/diploma/detalle/'
                 },
                 databases: {
                     title: 'Databases and SQL',
                     platform: 'IBM',
-                    description: 'Advanced management of relational databases'
+                    description: 'Advanced management of relational databases',
+                    url: 'https://www.linkedin.com/in/cristian-taborda-todino-a21b921ab/details/featured/1635472606276/single-media-viewer/?profileId=ACoAADEeYDkBMqa8yt27mVPHjEDNSjscJ-md_0Q'
                 },
                 dataScience: {
                     title: 'Data Science',
                     platform: 'Educacion IT',
-                    description: 'Introduction to data science and statistical analysis'
+                    description: 'Introduction to data science and statistical analysis',
+                    url: 'https://api.educacionit.com/pdf/certificados/Cristian-Taborda-690928/58326'
                 },
                 viewAll: 'View all my certifications on LinkedIn'
             }

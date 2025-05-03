@@ -566,7 +566,7 @@ const Portfolio = () => {
             </div>
 
             {/* Certificaciones destacadas */}
-            <div className="-mt-14">
+            <div className="mt-6">
               <motion.div
                 initial={{ opacity: 0, y: 20 }}
                 whileInView={{ opacity: 1, y: 0 }}
